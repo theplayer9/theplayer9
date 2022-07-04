@@ -24,4 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=theplayer9)
  <a href="https://github.com/theplayer9?tab=followers"><img src="https://img.shields.io/github/followers/theplayer9?label=Followers&style=social" alt="GitHub Badge"></a>
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=theplayer9&show_icons=true&theme=radical" alt="theplayer9" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theplayer9&show_icons=true&theme=tokyonight_duo" alt="theplayer9" /></p>
 
