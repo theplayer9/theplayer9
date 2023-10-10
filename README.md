@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Sharma</h1>
 <h3 align="center">Young mind with crazy ideas 😎🙏🏼</h3>
-<p align="center">  Incoming intern @Microsoft | Lead @Google DSC | Microsoft Engage 22 | Ex-intern @ScogoNetworks | Front end web developer | Speaker </p>
+<p align="center">  SWE Intern @Microsoft | Former Lead @Google DSC | Freelancer | Microsoft Engage 22 | Ex-intern @ScogoNetworks | Front end web developer | Speaker </p>
 <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"  height=250 width=350 align="right">
  
 - Casting spells with 0's and 1's 😉👨‍💻
